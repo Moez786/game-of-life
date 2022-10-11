@@ -1,5 +1,5 @@
-node{
+node {
     stage "test"{
-        sh "echo hello jenkins"
+        sh "echo hello"
     }
 }
